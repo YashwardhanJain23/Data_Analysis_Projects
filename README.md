@@ -4,10 +4,6 @@ Data Analysis Projects - Yashwardhan Jain
 # R Data Analysis Portfolio 
 This repository contains a collection of data analysis projects implemented in R, showcasing various techniques, methodologies, and applications.
 
-# Introduction
-
-# R Data Analysis Portfolio
-
 ## Introduction
 
 Welcome to my R Data Analysis Portfolio! This repository serves as a showcase of my proficiency in R programming for data analysis and visualization. As an aspiring data enthusiast, I've curated a collection of diverse projects that demonstrate my skills in handling, analyzing, and visualizing data using R.
